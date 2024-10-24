@@ -32,4 +32,4 @@ has_toc: false
 19. [Module 19 - Cloud Computing]({% link docs/19-Cloud-Computing.md %})
 20. [Module 20 - Cryptography]({% link docs/20-Cryptography.md %})
 21. [Other Useful Information]({% link docs/other.md %})
-22. [Useful Links]({% link docs/useful-links.md %})
+22. [Useful Links]({% link docs/useful-stuff.md %})
